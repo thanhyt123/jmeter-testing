@@ -3,6 +3,7 @@
 ## Thông tin sinh viên
 
 * Họ và tên: Nguyễn Văn Thành
+* Mã sinh viên:23010764
 * GitHub: thanhyt123
 
 ## Mục tiêu
